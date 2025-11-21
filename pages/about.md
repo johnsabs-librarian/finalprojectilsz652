@@ -3,6 +3,20 @@ title: About
 layout: about
 permalink: /about.html
 
+# include CollectionBuilder info at bottom
+
+
+credits: true
+
+
+# Edit the markdown on in this file to describe your collection
+
+
+# Look in _includes/feature for options to easily add features to the page
+
+
+---
+
 ## About the Collection
 
 Within this collection, users will be able to view 25 Peter Pan illustrations from 4 different copies of the book published by Watermill Press,Chiltern Publishing, and Suzeteo Enterprises. These vary from republishings of the novel to more children's books. Using Collection Builder, the user may look at each of these images and explore each one in greath depth. All of these images are books that I personally own and have enjoyed owning. Many of them were gifts to me that I now think could be a gift to the academic world. Their portrayals of Peter Pan and the characters within the story are all quite diverse in their own ways which merits an exploration of them.
