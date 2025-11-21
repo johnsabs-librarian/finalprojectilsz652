@@ -2,6 +2,7 @@
 title: Content Information and History
 layout: content
 permalink: /content.html
+credits: true
 ---
 ## Content Information
 The content, which consists of 25 illustrations across 4 editions, in this collection varies so widely among each book and edition of Peter Pan. The differences extend from how Peter is portrayed himself as a character to whether or not there is color used in the illustrations. On the inside, they all tell the same tale of the boy who would never grow up. Their cover arts also vary in the sense that not all of them display any kind of characters but patterns rather. This page explores some of the content in this collection and how it all works together.
