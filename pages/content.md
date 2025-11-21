@@ -1,6 +1,6 @@
 ---
 title: Content Information and History
-layout: content
+layout: about
 permalink: /content.html
 credits: true
 heading: "Content Information and History"
