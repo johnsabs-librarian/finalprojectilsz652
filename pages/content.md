@@ -1,2 +1,4 @@
-## Content Information
-These pages contain a wide array of characters and situations within the Peter Pan story.
+---
+title: Content Information and History
+layout: content
+permalink: /content.html
